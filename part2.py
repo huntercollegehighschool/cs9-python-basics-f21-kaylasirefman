@@ -14,4 +14,4 @@ number = int(input("Enter a number: "))
 tentimes = number * 10
 ninetyninemore = number + 99
 print("Ten times your number is", tentimes)
-print("Ninety-nine more than your number is", ninetyninemore)
+print("Ninety-nine more than your number is", ninetyninemore) 
